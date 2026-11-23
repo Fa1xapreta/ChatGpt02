@@ -1,0 +1,161 @@
+﻿ID da skin;Nome;hairId;chestId;body_part no DAT;Presente no DAT original;Presente no DAT do pacote;Variantes sem mesh base
+32200;Wooden Set Appearance;60000;60001;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+32201;Devotion Set Appearance;60003;60004;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+32202;Mithril Heavy Set Appearance;60006;60007;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+32203;Brigandine Set Appearance;60009;60010;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+32204;Reinforced Leather Set Appearance;0;60012;;;;
+32205;Manticore Skin Set Appearance;0;60015;;;;
+22006;Knowledge Set Appearance;0;60018;;;;
+22007;Mithril Robe Set Appearance;0;60021;;;;
+22008;Chain Mail Set Appearance;60024;60025;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22009;Composite Set Appearance;60027;60028;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22010;Full Plate Set Appearance;60029;60030;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22011;Mithril Light Set Appearance;0;60033;;;;
+22012;Plated Leather Set Appearance;0;60036;;;;
+22013;Theca Leather Set Appearance;0;60039;;;;
+22014;Drake Leather Set Appearance;0;60042;;;;
+22015;Karmian Set Appearance;0;60044;;;;
+22016;Demon Set Appearance;0;60047;;;;
+22017;Divine Set Appearance;0;60050;;;;
+22018;Zubei Heavy Set Appearance;60053;60054;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22019;Zubei Light Set Appearance;60053;60058;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22020;Zubei Robe Set Appearance;60053;60062;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22021;Avadon Heavy Set Appearance;60066;60067;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22022;Avadon Light Set Appearance;60066;60071;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22023;Avadon Robe Set Appearance;60066;60074;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22024;Blue Wolf Heavy Set Appearance;60077;60078;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22025;Blue Wolf Light Set Appearance;60077;60082;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22026;Blue Wolf Robe Set Appearance;60077;60085;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22027;Doom Heavy Set Appearance;60089;60090;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22028;Doom Light Set Appearance;60089;60093;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22029;Doom Robe Set Appearance;60089;60096;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22030;Dark Crystal Heavy Set Appearance;60100;60101;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22031;Dark Crystal Light Set Appearance;60100;60105;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22032;Dark Crystal Robe Set Appearance;60100;60109;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22033;Tallum Heavy Set Appearance;60112;60113;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22034;Tallum Light Set Appearance;60112;60116;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22035;Tallum Robe Set Appearance;60112;60119;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22036;Nightmare Heavy Set Appearance;60123;60124;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22037;Nightmare Light Set Appearance;60123;60127;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22038;Nightmare Robe Set Appearance;60123;60130;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22039;Majestic Heavy Set Appearance;60133;60134;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22040;Majestic Leather Set Appearance;60133;60137;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22041;Majestic Robe Set Appearance;60133;60140;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22042;Imperial Crusader Set Appearance;60143;60144;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22043;Draconic Leather Set Appearance;60148;60149;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22044;Major Arcana Set Appearance;60152;60153;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22045;Clan Oath Heavy Set Appearance;60156;60157;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22046;Clan Oath Light Set Appearance;60156;60160;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22047;Clan Oath Robe Set Appearance;60156;60163;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22048;Apella Heavy Set Appearance;60166;60167;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22049;Apella Light Set Appearance;60166;60170;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22050;Apella Robe Set Appearance;60166;60173;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22051;Titanium Heavy Set Appearance;60176;60177;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22052;Titanium Light Set Appearance;60181;60182;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22053;Titanium Robe Set Appearance;60186;60187;6;Não;Sim;m_HumnFigh, f_HumnFigh, m_DarkElf, f_DarkElf, m_Dorf, f_Dorf, m_Elf, f_Elf, m_HumnMyst, f_HumnMyst, m_OrcFigh, f_OrcFigh, m_OrcMage, f_OrcMage
+22073;Maid Costume Appearance;0;60191;;;;
+22074;Skeleton Costume Appearance;0;60192;;;;
+22075;Demon Costume Appearance;0;60193;;;;
+22076;Jester Costume Appearance;0;60194;;;;
+22077;Black Costume Appearance;0;60195;;;;
+22078;Chaos Agent Costume Appearance;60196;60197;17;Não;Sim;
+22079;Rabbit Costume Appearance;60198;60199;17;Não;Sim;
+22080;Agent Peely Costume Appearance;60200;60201;17;Não;Sim;
+22081;Agent Peely Green Costume Appearance;60202;60203;17;Não;Sim;
+22082;Atlantis Costume Appearance;60204;60205;17;Não;Sim;
+22083;Aegis style Costume Appearance;0;60206;;;;
+22084;Dragon Costume Appearance;60207;60208;17;Não;Sim;
+22085;White Guard Costume Appearance;60209;60210;17;Não;Sim;
+22086;Blue Assasin's Costume Appearance;60211;60212;17;Não;Sim;
+22087;Zarizhe Costume Appearance;60213;60214;17;Não;Sim;
+22088;Akamanah Costume Appearance;60215;60216;17;Não;Sim;
+22089;Helloween Costume Appearance;60217;60218;19;Não;Sim;
+22090;Pirate Costume Appearance;60219;60220;19;Não;Sim;
+22091;Admiral White Costume Appearance;60221;60222;19;Não;Sim;
+22092;Admiral Black Costume Appearance;60223;60224;19;Não;Sim;
+22093;Red Assasin's Costume Appearance;60225;60226;17;Não;Sim;
+22094;Red Robin Hood Costume Appearance;60227;60228;17;Não;Sim;
+22095;Green Robin Hood Costume Appearance;60229;60230;17;Não;Sim;
+22096;White Assassin Costume Appearance;60231;60232;17;Não;Sim;
+22097;Black Assassin Costume Appearance;60233;60234;17;Não;Sim;
+22098;Red Musketeer Costume Appearance;60235;60236;17;Não;Sim;
+22099;Blue Musketeer Costume Appearance;60237;60238;17;Não;Sim;
+22100;Wizard Costume Appearance;60239;60240;17;Não;Sim;
+22101;Warrior Costume Appearance;60241;60242;17;Não;Sim;
+22102;Cat Costume Appearance;60243;60244;17;Não;Sim;
+22103;Red Noblees Costume Appearance;60245;60246;17;Não;Sim;
+22104;White Noblees Costume Appearance;60247;60248;17;Não;Sim;
+22105;Valkyri Costume Appearance;60249;60250;17;Não;Sim;
+22106;Anakim Costume Appearance;60251;60252;17;Não;Sim;
+22107;Red Zaken Costume Appearance;60253;60254;17;Não;Sim;
+22108;Blue Zaken Costume Appearance;60255;60256;17;Não;Sim;
+22109;Ninja Costume Appearance;60257;60258;17;Não;Sim;
+22110;Samurai Costume Appearance;60259;60260;17;Não;Sim;
+22111;Red Wizard Costume Appearance;60261;60262;17;Não;Sim;
+22112;Vampire Costume Appearance;60263;60264;17;Não;Sim;
+22113;Madness Costume Appearance;0;60265;;;;
+22114;Robin Gove Costume Appearance;0;60266;;;;
+22115;Steampunk Costume Appearance;0;60267;;;;
+22116;Festive Costume Appearance;0;60268;;;;
+22117;Skull Costume Appearance;0;60269;;;;
+22118;Wolf Costume Appearance;0;60270;;;;
+22119;Beleth Costume Appearance;0;60271;;;;
+22120;Han Costume Appearance;0;60272;;;;
+22121;Cowboy Costume Appearance;0;60273;;;;
+22122;Deer Costume Appearance;0;60274;;;;
+22123;Bear Costume Appearance;0;60275;;;;
+22124;Cat Costume Appearance;0;60276;;;;
+22125;Blue Santa Costume Appearance;0;60277;;;;
+22126;Healer Costume Appearance;0;60278;;;;
+22127;Dark Healer Costume Appearance;0;60279;;;;
+22128;Gentle Valentine's Costume Appearance;0;60280;;;;
+22129;Leviathan Heavy Costume Appearance;60281;60282;17;Não;Sim;
+22130;Leviathan Light Costume Appearance;60283;60284;17;Não;Sim;
+22131;Leviathan Robe Costume Appearance;60285;60286;17;Não;Sim;
+22132;China Style Costume Appearance;0;60287;;;;
+22133;Noble Rabbit Costume Appearance;60288;60289;17;Não;Sim;
+22134;Noble Knight Costume Appearance;0;60290;;;;
+22135;Antharas Costume Appearance;0;60291;;;;
+22136;Valakas Costume Appearance;0;60292;;;;
+22137;Aegis Style 2 Costume Appearance;60293;60294;17;Não;Sim;
+22138;Dark Ranker Costume Appearance;0;60295;;;;
+22139;Death Knight Costume Appearance;0;60296;;;;
+22140;Fire Ranker Costume Appearance;0;60297;;;;
+22141;Dual Tone Black Costume Appearance;60298;60299;17;Não;Sim;
+22142;Dual Tone Red Costume Appearance;60300;60301;17;Não;Sim;
+22143;Dual Tone Silver Costume Appearance;60302;60303;17;Não;Sim;
+22144;Groot Costume Appearance;0;60304;;;;
+22145;Goldfish Costume Appearance;0;60305;;;;
+22146;Talamus Costume Appearance;0;60306;;;;
+22147;Japan Blue Costume Appearance;60307;60308;17;Não;Sim;
+22148;Japan Gold Costume Appearance;60309;60310;17;Não;Sim;
+22149;Lion Head Light Costume Appearance;0;60311;;;;
+22150;Lion Head Green Robe Appearance;0;60314;;;;
+22151;Black Moon Rabbit Costume Appearance;60315;60316;17;Não;Sim;
+22152;Rose Moon Rabbit Costume Appearance;60317;60318;17;Não;Sim;
+22153;Moon Rabbit Costume Appearance;60319;60320;17;Não;Sim;
+22154;Golden Roman Costume Appearance;60321;60322;19;Não;Sim;
+22155;Roman Costume Appearance;60323;60324;19;Não;Sim;
+22156;Dust Poseidon Appearance;0;60325;;;;
+22157;Man Cake Appearance;60326;60327;17;Não;Sim;
+22158;Merry Marauder Appearance;60328;60329;17;Não;Sim;
+22159;Santas Clothes Appearance;0;60330;;;;
+22160;Death Knight Blue Appearance;60331;60332;17;Não;Sim;
+22161;Death Knight Fire Appearance;60333;60334;17;Não;Sim;
+22162;Death Knight Purple Appearance;60335;60336;17;Não;Sim;
+22163;Adidas Black Appearance;0;60337;;;;
+22164;Adidas Yellow Appearance;0;60338;;;;
+22165;Adidas Red Appearance;0;60339;;;;
+22166;Adidas Green Appearance;0;60340;;;;
+22167;Gucci Golden Costume;0;60341;;;;
+22168;Gucci Blue Costume;0;60342;;;;
+22169;Gucci White Costume;0;60343;;;;
+22170;Gucci Bugs Bunny Costume;0;60344;;;;
+22171;Gucci Rick Sanchez Costume;0;60345;;;;
+22172;Uniform Costume;60346;60347;19;Não;Sim;
+22173;Military Costume;60348;60349;19;Não;Sim;
+22174;Assassins Pink Costume;60350;60351;17;Não;Sim;
+22175;Furcoat Costume;0;60352;;;;
+22176;Shark Costume;0;60353;;;;
+22177;Crystal Blue Costume;60354;60355;17;Não;Sim;
+22178;Crystal Red Costume;60356;60357;17;Não;Sim;
