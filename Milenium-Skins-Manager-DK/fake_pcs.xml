@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+   <npc id="193">
+       <appearance name="Skins Manager" name_color="FFFFFF" title="Preview de Skins" title_color="FFFF77" radius="5" height="18" race="0" sex="1" class="0" hair_style="0" hair_color="0" face="0" hero="0" enchant="0" />
+       <items right_hand="17677" left_hand="0" chest="60296" legs="0" gloves="0" feet="0" hair="0" hair2="0" />
+       <clan clan_id="0" clan_crest="0" ally_id="0" ally_crest="0" pledge="0" />
+   </npc>
+</list>
