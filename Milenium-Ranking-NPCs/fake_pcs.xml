@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+   <npc id="50018">
+      <appearance name="You Here!" name_color="FFFFFF" title="PKs in the last 24h" title_color="00CCFF" radius="9" height="22" race="0" sex="0" class="10" hair_style="0" hair_color="3" face="0" hero="0" enchant="0" />
+      <items right_hand="6610" left_hand="9954" chest="9311" legs="9312" gloves="9313" feet="9314" hair="8557" hair2="0" />
+      <clan clan_id="0" clan_crest="0" ally_id="0" ally_crest="0" pledge="0" />
+   </npc>
+   <npc id="50017">
+      <appearance name="You Here!" name_color="FFFFFF" title="PvPs in the last 24h" title_color="00CCFF" radius="9" height="22" race="0" sex="0" class="10" hair_style="0" hair_color="3" face="0" hero="0" enchant="0" />
+      <items right_hand="6610" left_hand="9954" chest="9311" legs="9312" gloves="9313" feet="9314" hair="8184" hair2="0" />
+      <clan clan_id="0" clan_crest="0" ally_id="0" ally_crest="0" pledge="0" />
+   </npc>
+</list>
